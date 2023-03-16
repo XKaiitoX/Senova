@@ -1,3 +1,3 @@
 Autor: Davis vega
 
-Se aprendera hacer las carpetas y el contenido del juego
+Se aprendera hacer las carpetas y el contenido del juego de senova

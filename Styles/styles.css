@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Righteous&display=swap');
+*{
+    font-family: 'Climate Crisis', cursive;
+    font-family: 'Righteous', cursive;
+}
 
 .body1{
     /* background-color: black; */
@@ -11,9 +16,23 @@ h1{
 
 }
 
-p{
-    font-size: 50px;
+p {
+    background-color:#f0f0f0;
+    color:#000;
     display: flex;
     justify-content: center;
-    color: rgb(0, 255, 13);
-}
+    font-size: 50px;
+    opacity: 80%;
+    }
+    
+p.box1 {
+    width: 100px;
+    margin:20px 50px;
+    padding:30px;
+    font-size:italic;
+    background-color:#cfc;
+    color:#000;
+
+    }
+
+    

@@ -5,3 +5,15 @@
     background-image: url(https://wallpaperaccess.com/full/1741378.jpg);
 }
 
+h1{
+    color: white;
+    font-size: 50px;
+
+}
+
+p{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 255, 13);
+}
